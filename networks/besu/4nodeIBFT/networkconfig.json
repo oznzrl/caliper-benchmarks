@@ -11,7 +11,7 @@
         "transactionConfirmationBlocks": 2,
         "contracts": {
             "simple": {
-                "path": "./src/ethereum/simple/simple.json",
+                "path": "./src/ethereum/storage/Storage.json",
                 "estimateGas": true,
                 "gas": {
                     "set": 100000,
